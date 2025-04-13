@@ -1,0 +1,16 @@
+{
+  "name": "platzidate",
+  "version": "1.0.0",
+  "main": "src/index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date", 
+    "node"
+],
+  "author": "Julian Esteban Arcos <juliane.arcosa@uqvirtual.edu.co> ",
+  "license": "MIT",
+  "description": "Una utilidad para manejar fechas en formato timestamp y long time. "
+}
